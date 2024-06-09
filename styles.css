@@ -175,6 +175,6 @@ html {
     transition: transform 0.3s ease-out;
 }
 #contact-links a:hover {
-    transform: translateY(6px);
+    transform: scale(1.1);
 }
 /* END CONTACT SECTION */
